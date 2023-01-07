@@ -1,0 +1,52 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hugo-theme-hello-friend"
+paginate = 5
+enableEmoji = "true"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Enable to show reading time in minutes for posts
+  showReadingTime = false
+  # Give the whole article for those that use rss
+  rssFullText = true
+
+[languages]
+  [languages.en]
+    title = "Privacy Quest"
+    subtitle = ""
+    keywords = ""
+    copyright = "© 2023 Privacy Quest. Made with love and tea!"
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "01-02-2006"
+    dateFormatList = "01-02-2006"
+    lastModDisplay = "Last modified on"
+    
+    [languages.en.params.logo]
+      logoText = "Privacy Quest"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
