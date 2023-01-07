@@ -1,21 +1,11 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
 +++
 
-# Hi there
+###  Hi there
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Archie and I'm the author of Privacy Quest.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+We all know how hard is to start something on the web, but what most people don't know is its hard to keep your personal data off of it. This blog is a combination of the story of my privacy quest and personal musings and thoughts. I hope that it provides informational, educational, or at the very least entertaining.
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-
-So, there you have it... enjoy!
+If you have any ideas for things I should write about or check out shoot me a email [here](mailto:pitt_bic@simplelogin.com).
