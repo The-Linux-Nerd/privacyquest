@@ -5,25 +5,25 @@
     
     
     
-    <link>/</link>
+    <link>privacyquest.net/</link>
     <description>Recent content on Privacy Quest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 Privacy Quest. Made with love and tea! (and Hugo)</copyright>
     <lastBuildDate>Sun, 01 Jan 2023 12:11:01 -0600</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="privacyquest.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Beginnings - New Blog</title>
-      <link>/post/new-beggings-new-blog/</link>
+      <link>privacyquest.net/post/new-beggings-new-blog/</link>
       <pubDate>Sun, 01 Jan 2023 12:11:01 -0600</pubDate>
       
-      <guid>/post/new-beggings-new-blog/</guid>
+      <guid>privacyquest.net/post/new-beggings-new-blog/</guid>
       <description>
         
-          &lt;img src=&#34;/img/washing-away-2022.webp&#34;/&gt;
+          &lt;img src=&#34;privacyquest.net/img/washing-away-2022.webp&#34;/&gt;
           
         
         
@@ -36,10 +36,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>privacyquest.net/about/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>privacyquest.net/about/</guid>
       <description>
         
           
@@ -68,10 +68,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>/showcase/</link>
+      <link>privacyquest.net/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/</guid>
+      <guid>privacyquest.net/showcase/</guid>
       <description>
         
           
@@ -163,10 +163,10 @@
     
     <item>
       <title>Archive</title>
-      <link>/archive/</link>
+      <link>privacyquest.net/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/archive/</guid>
+      <guid>privacyquest.net/archive/</guid>
       <description>
         
           
